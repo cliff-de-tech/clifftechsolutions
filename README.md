@@ -30,7 +30,7 @@
 
 ---
 
-### 🌐 Live Demo (optional)
+### 🌐 Live Demo
 _Comming Soon..._
 
 </div>
