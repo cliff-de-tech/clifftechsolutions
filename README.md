@@ -5,8 +5,6 @@
 
 <div align="center">
 
-<img src="https://via.placeholder.com/1200x250?text=CLIFF_TECH+SOLUTIONS+%7C+REPAIR+MANAGEMENT+SYSTEM" />
-
 # ⚡ **Cliff_Tech Solutions**
 ### **A Modern Cyber-Grade Full-Stack Repair Management System**
 
@@ -98,10 +96,10 @@ No breaking layouts. Fully fluid.
 > Replace the placeholders with your actual screenshots.
 
 ### 🛰️ Status Tracker  
-![Tracker](https://via.placeholder.com/1200x600?text=Device+Status+Tracker)
+![Tracker](https://github.com/cliff-de-tech/clifftechsolutions/blob/main/client/public/images/status-checker.png)
 
 ### 📅 Booking Form  
-![Booking](https://via.placeholder.com/1200x600?text=Booking+Form)
+![Booking](https://github.com/cliff-de-tech/clifftechsolutions/blob/main/client/public/images/book-page.png)
 
 ---
 
